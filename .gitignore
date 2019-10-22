@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+.vscode/
+.vs/
+bazel-*
+.clwb/
+tags
+.*.swp
+cmake-build-debug/
